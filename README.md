@@ -11,6 +11,13 @@
 
 
 
+## TO INSTALL (git ignored) "kubectl" and "minikube"
+
+```bash
+## Get inside project folder
+cd kubernetes-demo
+```
+
 ## 1. Install kubectl on macOS (macOS Apple Silicon / arm64)
 
 https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/#install-kubectl-on-macos
@@ -50,4 +57,17 @@ commit: 65318f4cfff9c12cc87ec9eb8f4cdd57b25047f3
 
 
 
+## TO RUN THE PROJECT
 
+```bash
+## Get inside project folder
+cd kubernetes-demo
+
+minikube start
+
+npm run deploy
+
+## minikube service <service_NAME>  
+minikube service kubernetes-demo-api-service
+
+```
