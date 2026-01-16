@@ -70,5 +70,10 @@ npm run deploy
 
 ## minikube service <service_NAME>  
 minikube service kubernetes-demo-api-service
-
 ```
+
+
+## CHEERS
+<img width="1024" height="1057" alt="Screenshot 2026-01-16 at 16 53 00" src="https://github.com/user-attachments/assets/21f44236-23b6-4f42-8d78-abc13e4dc064" />
+
+
