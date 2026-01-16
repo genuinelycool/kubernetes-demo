@@ -74,9 +74,10 @@ minikube service kubernetes-demo-api-service
 
 
 ## I/P
-<img width="1024" height="1057" alt="Screenshot 2026-01-16 at 16 53 00" src="https://github.com/user-attachments/assets/21f44236-23b6-4f42-8d78-abc13e4dc064" />
+<img width="775" height="1055" alt="Screenshot 2026-01-16 at 17 19 13" src="https://github.com/user-attachments/assets/be4818d3-523e-4e3a-89be-bff8d0348a6a" />
 
-## O/P
+
+## O/P (Two Pods)
 <img width="674" height="529" alt="Screenshot 2026-01-16 at 16 38 14" src="https://github.com/user-attachments/assets/93615760-eb25-45d5-9686-96fea1c6949c" />
 
 
