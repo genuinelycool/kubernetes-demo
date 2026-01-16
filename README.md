@@ -7,7 +7,8 @@
 
 
 ## FILE STRUCTURE (screen shot)
-<img width="1532" height="454" alt="Screenshot 2026-01-16 at 12 56 57" src="https://github.com/user-attachments/assets/421310cc-687a-42ff-af30-722cce0a7e89" />
+<img width="644" height="430" alt="Screenshot 2026-01-16 at 14 28 40" src="https://github.com/user-attachments/assets/4a549eb0-abcd-4efe-b25c-9b7a0331cd83" />
+
 
 
 
